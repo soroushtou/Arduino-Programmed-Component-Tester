@@ -16,4 +16,4 @@ EasyEDA  design: https://oshwlab.com/Soroosh/component-tester
 ![1](https://github.com/soroushtou/Arduino-Programmed-Component-Tester/blob/main/images/1%20(3).jpg)
 ![2](https://github.com/soroushtou/Arduino-Programmed-Component-Tester/blob/main/images/1%20(4).jpg)
 ![3](https://github.com/soroushtou/Arduino-Programmed-Component-Tester/blob/main/images/1%20(1).jpg)
-![4](https://github.com/soroushtou/Arduino-Programmed-Component-Tester/blob/main/images/1%20(5).jpg)
+![4](https://github.com/soroushtou/Arduino-Programmed-Component-Tester/blob/main/images/1%20(2).jpg)
