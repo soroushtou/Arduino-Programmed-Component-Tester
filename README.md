@@ -4,13 +4,13 @@ This is a component tester similar to LCR-T4. It is based on an open-source proj
 
 Other features are such as :
 
-    Automatic pin detection.
+   - Automatic pin detection.
     
-    10-bit PWM.
+   - 10-bit PWM.
     
-    Has Calibration ability.
+   - Has Calibration ability.
     
-    9V battery to power the circuit.
+   - 9V battery to power the circuit.
 
 I designed the PCB with EasyEDA, printed it on Glossy paper, and transferred the print to a raw copper board. Then I used FeCl3 acid to remove unused copper. For soldermask, I just covered the copper areas with solder.
 
