@@ -3,10 +3,10 @@
 This is a component tester similar to LCR-T4. It is based on an open-source project and I designed a PCB for it. You can test multiple BJTs, FETs, Diodes, and any values of Capacitors, Inductors, and Resistors.
 
 Other features are such as :
-  -Automatic pin detection.
-  -10-bit PWM.
-  -Has Calibration ability.
-  -9V battery to power the circuit.
+    -Automatic pin detection.
+    -10-bit PWM.
+    -Has Calibration ability.
+    -9V battery to power the circuit.
 
 I designed the PCB with EasyEDA, printed it on Glossy paper, and transferred the print to a raw copper board. Then I used FeCl3 acid to remove unused copper. For soldermask, I just covered the copper areas with solder.
 
