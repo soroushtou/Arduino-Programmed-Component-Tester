@@ -14,7 +14,7 @@ Other features are such as :
 
 I designed the PCB with EasyEDA, printed it on Glossy paper, and transferred the print to a raw copper board. Then I used FeCl3 acid to remove unused copper. For soldermask, I just covered the copper areas with solder.
 
-Original Project link: https://create.arduino.cc/projecthub/plouc68000/ardutester-v1-13-the-arduino-uno-transistor-tester-dbafb4
+Original Project link(with code): https://create.arduino.cc/projecthub/plouc68000/ardutester-v1-13-the-arduino-uno-transistor-tester-dbafb4
 
 EasyEDA  design: https://oshwlab.com/Soroosh/component-tester
 
